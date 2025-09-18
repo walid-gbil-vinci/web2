@@ -1,0 +1,4 @@
+
+### Read all drinks with File variable
+@baseUrl = http://localhost:3000
+GET {{baseUrl}}/drinks/
